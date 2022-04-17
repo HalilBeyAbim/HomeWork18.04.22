@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\bin\Debug\netcoreapp3.1\homeWork.exe
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\bin\Debug\netcoreapp3.1\homeWork.deps.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\bin\Debug\netcoreapp3.1\homeWork.runtimeconfig.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\bin\Debug\netcoreapp3.1\homeWork.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\bin\Debug\netcoreapp3.1\homeWork.dll
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\bin\Debug\netcoreapp3.1\homeWork.pdb
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\obj\Debug\netcoreapp3.1\homeWork.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\obj\Debug\netcoreapp3.1\homeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\obj\Debug\netcoreapp3.1\homeWork.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\obj\Debug\netcoreapp3.1\homeWork.AssemblyInfo.cs
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\obj\Debug\netcoreapp3.1\homeWork.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\obj\Debug\netcoreapp3.1\homeWork.dll
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\obj\Debug\netcoreapp3.1\homeWork.pdb
+C:\Users\ACER\Desktop\EvTapsiriqlari\homeWork\homeWork\obj\Debug\netcoreapp3.1\homeWork.genruntimeconfig.cache
